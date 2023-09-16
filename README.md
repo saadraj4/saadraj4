@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m Saad Raja
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning BackEnd Development
+- 📫 How to reach me: (instagram.com/saad.raj4) and also reach me through gmail (sr201040@gmail.com)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saadraj4&theme=gotham)](https://git.io/streak-stats)
+<!---
+saadraj4/saadraj4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
