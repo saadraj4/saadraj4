@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F002%2F227%2F847%2Fsmall%2Fprogrammer-computer-expert-black-linear-icon-vector.jpg&tbnid=eAaF5DfZ1lcdbM&vet=12ahUKEwjdicyEoNGEAxWpV6QEHU_CA4cQMygCegQIARBZ..i&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fprogrammer-avatar&docid=dczzt7Q1u_2IsM&w=200&h=200&q=coder%20avatar&ved=2ahUKEwjdicyEoNGEAxWpV6QEHU_CA4cQMygCegQIARBZ"  />
+<img align="right" height="150" src="./image.jpeg"  />
 
 ###
 
