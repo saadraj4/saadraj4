@@ -36,7 +36,7 @@
 <div align="left">
 <!-- Facebook Link -->
 <a href="https://www.facebook.com/saad.raj4" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=0000FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
 <!-- Instagram Link -->
   <a href="https://www.instagram.com/saad.raj4" target="_blank">
