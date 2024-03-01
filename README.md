@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150"  src="./image.jpeg"  />
+<!-- <img align="right" height="150"  src="./image.jpeg"  /> -->
 
 ###
 
