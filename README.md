@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadraj4&show_icons=true&locale=en&layout=compact" alt="saadraj4" />
 
-<img align="right" height="150"  src="./image.jpeg"  />
+<!-- <img align="right" height="150"  src="./image.jpeg"  />s -->
 
 </p>
 
