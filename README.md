@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadraj4&show_icons=&theme=dracula&locale=en" alt="saadraj4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadraj4&theme=gotham" alt="saadraj4" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saadraj4&theme=gotham)](https://git.io/streak-stats)
